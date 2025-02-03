@@ -16,7 +16,7 @@ Focused on proper functioning rather than good looking design. Features:
   - server-sided (per default) or directly in browser
 - Supports multiple file versions (e.g. in different resolutions / codecs)
 - Background sync keeping track of media servers' connection changes
-- Docker image for amd64 and arm64. Or run the windows executable .
+- Docker image for amd64 and arm64. Or run the windows executable.
 
 Use `docker pull ghcr.io/fxsth/pledo:latest` to get the docker image of latest release.
 
